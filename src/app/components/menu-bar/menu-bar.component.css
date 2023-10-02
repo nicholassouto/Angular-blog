@@ -1,0 +1,9 @@
+.container-menu-bar{
+    margin-top: 1.5rem;
+}
+
+.container-menu-bar ul{
+    display: flex;
+    flex-direction: row;
+    gap: 2rem;
+}

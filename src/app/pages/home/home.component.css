@@ -1,3 +1,10 @@
-.container-articles{
-    margin-top: 1rem;
+.container-articles {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+header {
+  display: flex;
+  justify-content: center;
 }
